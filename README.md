@@ -21,7 +21,9 @@ Project made with JAVA using OOP. The project is to represent a simple system of
     }
 ```
 In the 'totalPrice()' method that is used on the imported product, the price of the product plus the customs fee is returned.
-priceTag() returns the description of the product, in the example above it is overriding a main method that is in the Product class.
+priceTag() returns the description of the product, in the example above it is overriding a main method that is in the Product class, note that this method is final, this means that it cannot be overwritten.
+
+.
 
 
 
