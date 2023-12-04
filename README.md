@@ -6,7 +6,8 @@ Project made with JAVA using OOP. The project is to represent a simple system of
 
 
 
-## Metodos
+## Methods
+
 ```JAVA
    public Double totalPrice() {
         return getPrice() + customsFee;
