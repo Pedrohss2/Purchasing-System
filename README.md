@@ -1,8 +1,8 @@
 
 # Purchasing-System
 
-Projeto feito com JAVA ultilizando POO.
-O projeto é para representar um sistema simples de produtos importados, usados e um porduto commum.
+Project made with JAVA using OOP. The project is to represent a simple system of imported, used products and a common product.
+
 
 
 
